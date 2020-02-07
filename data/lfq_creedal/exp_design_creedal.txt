@@ -1,0 +1,7 @@
+label	condition	replicate
+Parental_1	Parental	1
+Parental_2	Parental	2
+Parental_3	Parental	3
+Resistant_1	Resistant	1
+Resistant_2	Resistant	2
+Resistant_3	Resistant	3
